@@ -1,0 +1,46 @@
+    1  git global config user.name
+    2  git config global user.name
+    3  git config user.name
+    4  git config user.name
+    5  git config user.name
+    6  git config user.name
+    7  git branch
+    8  git clone https://github.com/ESChrystian/teste.git
+    9  git clone https://github.com/ESChrystian/TESTE.git
+   10  git init
+   11  git status
+   12  git clonehttps://github.com/ESChrystian/teste.git
+   13  git clone https://github.com/ESChrystian/teste.git
+   14  git reflog
+   15  git status
+   16  git push
+   17  git clone https://github.com/ESChrystian/OAT.web.git
+   18  git clone https://github.com/ESChrystian/OAT.web.git
+   19  git clone https://github.com/ESChrystian/OAT.web.git
+   23  git clone https://github.com/ESChrystian/OAT.web.git
+   24  git clone https://github.com/ESChrystian/OAT.web.git
+   25  git clone https://github.com/salgadoles/gazetamarista.git
+   26  git clone https://github.com/MaristaIrAcacio/NovaGazetaMarista.git
+   27  https://github.com/MaristaIrAcacio/NovaGazetaMarista.git
+   28  https://github.com/MaristaIrAcacio/NovaGazetaMarista.git
+   29  git clone https://github.com/MaristaIrAcacio/NovaGazetaMarista.git
+   30  git clone https://github.com/ESChrystian/NovaGazetaMarista.git
+   31  git clone https://github.com/MaristaIrAcacio/NovaGazetaMarista.git
+   32  git clone https://github.com/salgadoles/OAT.git
+   36  git config --global user.name
+   37  git config --global user.email
+   38  git config --global --unset user.name
+   39  git config --global user.name
+   40  git config --global --unset user.email
+   41  git config --global user.email
+   42  git config --globar user.name "Chrystian de Almeida Silva"
+   43  git config --global user.name "Chrystian de Almeida Silva"
+   44  git config --global user.name
+   45  git config --global user.email "chrystianalmeida04@gmail.com"
+   52  ssh -T git@github.com
+   53  history | grep git > history.txt
+   54  git status
+   55  git add .
+   56  git commit -m "Alteração para atividade 04"
+   57  git push
+   58  history | grep git > history.txt
